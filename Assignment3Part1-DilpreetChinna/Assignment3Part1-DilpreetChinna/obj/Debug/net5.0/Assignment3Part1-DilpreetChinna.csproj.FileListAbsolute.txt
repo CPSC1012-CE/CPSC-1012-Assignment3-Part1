@@ -1,0 +1,16 @@
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\bin\Debug\net5.0\Assignment3Part1-DilpreetChinna.exe
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\bin\Debug\net5.0\Assignment3Part1-DilpreetChinna.deps.json
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\bin\Debug\net5.0\Assignment3Part1-DilpreetChinna.runtimeconfig.json
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\bin\Debug\net5.0\Assignment3Part1-DilpreetChinna.runtimeconfig.dev.json
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\bin\Debug\net5.0\Assignment3Part1-DilpreetChinna.dll
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\bin\Debug\net5.0\Assignment3Part1-DilpreetChinna.pdb
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.csproj.AssemblyReference.cache
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.AssemblyInfoInputs.cache
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.AssemblyInfo.cs
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.csproj.CoreCompileInputs.cache
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.dll
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\refint\Assignment3Part1-DilpreetChinna.dll
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.pdb
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\Assignment3Part1-DilpreetChinna.genruntimeconfig.cache
+C:\Users\rmarw\OneDrive\Documents\GitHub\DilP-Assignment3\Assignment3Part1-DilpreetChinna\Assignment3Part1-DilpreetChinna\obj\Debug\net5.0\ref\Assignment3Part1-DilpreetChinna.dll
